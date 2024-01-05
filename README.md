@@ -3,7 +3,7 @@ Hi all, In this repo you can find all the notes of the on-going SQL Series on my
 
 Youtube channel : https://youtube.com/@RitiKumari
 
-Playlist link (SQL Series) : 
+Playlist link (SQL Series) : https://www.youtube.com/playlist?list=PLrL_PSQ6q062H5CetdplYW7xQKeq8XaR0
 
 Notes are attached above "keep learning, keep growing" :)
 
